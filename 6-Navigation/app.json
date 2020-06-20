@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "HelloWorld",
-    "slug": "navigation",
+    "name": "6-Navigation",
+    "slug": "6-Navigation",
     "platforms": [
       "ios",
       "android",
